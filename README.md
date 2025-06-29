@@ -331,3 +331,8 @@ Edit
     menu();
     return 0;
     }
+
+## 🙏 Acknowledgments
+
+- Developed as part of an internship project for **Algonive**
+- Inspired by classic data compression algorithms and educational resources
