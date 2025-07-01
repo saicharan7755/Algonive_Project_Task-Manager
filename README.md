@@ -332,7 +332,16 @@ Edit
     return 0;
     }
 
+
 ## 🙏 Acknowledgments
 
 - Developed as part of an internship project for **Algonive**
 - Inspired by classic data compression algorithms and educational resources
+
+## 📬 Contact
+
+For questions, feedback, or collaboration, reach out at:  
+
+**Email:** nistalacharan@gmail.com  
+
+**LinkedIn:** [Sai Charan N](https://www.linkedin.com/in/sai-charan-n-0b6515348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
